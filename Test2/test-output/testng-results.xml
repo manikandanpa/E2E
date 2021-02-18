@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4826" started-at="2021-02-18T03:15:15Z" finished-at="2021-02-18T03:15:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4826" started-at="2021-02-18T03:15:15Z" finished-at="2021-02-18T03:15:20Z">
+      <class name="testCases.Test01">
+        <test-method status="PASS" signature="LoadBrowser()[pri:0, instance:testCases.Test01@3349e9bb]" name="LoadBrowser" is-config="true" duration-ms="4520" started-at="2021-02-18T03:15:16Z" finished-at="2021-02-18T03:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadBrowser -->
+        <test-method status="PASS" signature="testCase01()[pri:0, instance:testCases.Test01@3349e9bb]" name="testCase01" duration-ms="279" started-at="2021-02-18T03:15:20Z" finished-at="2021-02-18T03:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+      </class> <!-- testCases.Test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
